@@ -50,6 +50,14 @@ To work with the bitmap library, you need to follow these steps:
 
 ### 3. Compiling and running Process A and Process B
 Once the installation is done, clone this repository to your desired location:
-<pre><code>git clone https://github.com/ParinazRmp/Shared_Memory_in_Robo_Vision_Simulator.git </code></pre>
+<pre><code>git clone https://github.com/ParinazRmp/RoboVision_Client_Bridge_Server.git </code></pre>
 After you clone the repository, run this command:
 <pre><code> sh run.sh </code></pre>
+
+<img src="https://user-images.githubusercontent.com/80394968/225428503-ce0991e7-10c8-45f5-bb52-ab4de821c27d.png" width="60" /> 
+
+## Members
+| Github-page | Email |
+|------------------|------------------|
+| [Danial Sabzevari](https://github.com/dssdanial)  | s5217544@studenti.unige.it |
+| [Parinaz Ramezanpour](https://github.com/ParinazRmp)  | s5214640@studenti.unige.it |
